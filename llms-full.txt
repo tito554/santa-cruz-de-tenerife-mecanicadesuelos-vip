@@ -1,0 +1,62 @@
+# Santa Cruz De Tenerife
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/aislacion-sismica/)
+- [Amplificacion Sismica](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/amplificacion-sismica/)
+- [Asentamiento Diferencial](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/asentamiento-diferencial/)
+- [Calicatas Exploratorias](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/cimentaciones-rellenos/)
+- [Cimentaciones Superficiales](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/clasificacion-suelos/)
+- [Compresion Simple](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/compresion-simple/)
+- [Consolidacion](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/consolidacion/)
+- [Corte Directo](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/corte-directo/)
+- [Deep Soil Mixing](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/deep-soil-mixing/)
+- [Deslizamientos](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/deslizamientos/)
+- [Dilatometro](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/dilatometro/)
+- [Drenaje Vial](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/drenaje-vial/)
+- [Drenes Verticales](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/drenes-verticales/)
+- [Ensayo Cpt](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Spt](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estudio Mecanica Suelos](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/exploracion/)
+- [Falla Taludes](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/falla-taludes/)
+- [Flujos Detritos](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/flujos-detritos/)
+- [Geoceldas](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/geoceldas/)
+- [Geofisica](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/geofisica/)
+- [Georradar Gpr](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/georradar-gpr/)
+- [Geotecnia Vial](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/geotecnia-vial/)
+- [Geotextiles](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/geotextiles/)
+- [Granulometria](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/granulometria/)
+- [Laboratorio](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/laboratorio/)
+- [Licuefaccion](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/licuefaccion/)
+- [Limites Atterberg](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/limites-atterberg/)
+- [Mejoramiento](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/mejoramiento/)
+- [Micropilotes](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/micropilotes/)
+- [Microtremores Hvsr](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/microtremores-hvsr/)
+- [Monitoreo Taludes](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/monitoreo-taludes/)
+- [Muestreo Inalterado](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/muestreo-inalterado/)
+- [Muros Contencion](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/muros-contencion/)
+- [Muros Pantalla](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/muros-pantalla/)
+- [Pavimento Flexible](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/pavimento-flexible/)
+- [Permeabilidad Campo](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/permeabilidad-campo/)
+- [Pilotes](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/pilotes/)
+- [Pilotes Hincados](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/pilotes-hincados/)
+- [Precarga](https://santa-cruz-de-tenerife.mecanicadesuelos.vip/precarga/)
+
+## Contact
+- Website: https://santa-cruz-de-tenerife.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
